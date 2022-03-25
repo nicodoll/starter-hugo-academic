@@ -16,18 +16,18 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: Animate, Photoshop, Illustrator, Premiere Pro, Storyboard Pro, CLIP STUDIO PAINT
+- description: Animate / Flash, Photoshop, Illustrator, Premiere Pro, Storyboard Pro, CLIP STUDIO PAINT
   icon: mouse
   icon_pack: fas
   name: Software
-- description: Illustration, Storyboarding, Animating, Design, Compositing, Screenwriting 
+- description: Illustration, Storyboarding, Animating, Design, Compositing, Screenwriting, Cinematography, CSS & HTML
   icon: paint-brush
   icon_pack: fas
-  name: Technical
+  name: Working with clients, taking creative direction, Adapting to new workflows and tools, Recreating resturant recipes
 - description: 10%
-  icon: camera-retro
+  icon: handshake-alt
   icon_pack: fas
-  name: Photography
+  name: Other
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

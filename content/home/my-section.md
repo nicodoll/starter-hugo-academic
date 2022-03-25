@@ -14,6 +14,7 @@ subtitle:
 
 design:
   columns: '1'
+  view: 5
 ---
 
 {{< gallery album="storyboards" >}}

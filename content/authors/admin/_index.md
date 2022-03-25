@@ -2,7 +2,11 @@
 title: Nicole (Nico) J. Dolloso
 role: Storyboard Artist / Animator
 avatar_filename: avatar.jpg
-bio: ""
+bio: I'm a Toronto-based artist and animator with 5+ years of combined
+  experience. Working with others to bring their vision to life using visual
+  storytelling and illustration is my core passion. When I'm not doing that I'm
+  usually doing other hands-on projects like woodworking toys for my parrots,
+  composing music or getting to know new CG software.
 interests:
   - Pre-vis
   - Animation

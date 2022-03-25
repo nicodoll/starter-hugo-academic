@@ -20,8 +20,8 @@ feature:
   icon: clouds
   icon_pack: fas
   name: Adobe Creative Cloud
-- description: TBA
-  icon: chart-line
+- description: Illustration, Storyboarding, Animating, Design 
+  icon: paintbrush
   icon_pack: fas
   name: Statistics
 - description: 10%

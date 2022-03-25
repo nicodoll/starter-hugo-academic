@@ -24,7 +24,7 @@ feature:
   icon: paint-brush
   icon_pack: fas
   name: Technical
-- description: Working with clients, taking creative direction, Adapting to new workflows and tools, Recreating resturant recipes
+- description: Working with clients, taking creative direction, Adapting to new workflows and tools, Recreating restaurant recipes
   icon: handshake
   icon_pack: fas
   name: Other

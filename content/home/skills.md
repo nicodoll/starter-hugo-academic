@@ -16,14 +16,14 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: Animate, Photoshop, Illustrator & Premiere Pro
-  icon: clouds
+- description: Animate, Photoshop, Illustrator, Premiere Pro, Storyboard Pro, CLIP STUDIO PAINT
+  icon: cloud-upload
   icon_pack: fas
-  name: Adobe Creative Cloud
+  name: Software
 - description: Illustration, Storyboarding, Animating, Design 
-  icon: paintbrush
+  icon: paint-brush
   icon_pack: fas
-  name: Statistics
+  name: Technical
 - description: 10%
   icon: camera-retro
   icon_pack: fas

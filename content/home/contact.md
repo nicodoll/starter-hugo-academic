@@ -3,7 +3,7 @@ widget: contact
 widget_id: contact
 headless: true
 weight: 130
-title: Need work done? Contact me!
+title: Need work done? Let's chat!
 subtitle: null
 content:
   form:

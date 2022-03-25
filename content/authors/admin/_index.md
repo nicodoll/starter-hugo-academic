@@ -28,8 +28,6 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations: []
-education:
-  courses: []
 email: ""
 superuser: true
 highlight_name: true

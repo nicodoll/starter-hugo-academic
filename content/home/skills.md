@@ -23,9 +23,9 @@ feature:
 - description: Illustration, Storyboarding, Animating, Design, Compositing, Screenwriting, Cinematography, CSS & HTML
   icon: paint-brush
   icon_pack: fas
-  name: Working with clients, taking creative direction, Adapting to new workflows and tools, Recreating resturant recipes
-- description: 10%
-  icon: handshake-alt
+  name: Technical
+- description: Working with clients, taking creative direction, Adapting to new workflows and tools, Recreating resturant recipes
+  icon: handshake
   icon_pack: fas
   name: Other
 

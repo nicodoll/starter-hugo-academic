@@ -17,8 +17,8 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: Animate, Photoshop, Illustrator & Premiere Pro
-  icon: cloud
-  icon_pack: far
+  icon: clouds
+  icon_pack: fas
   name: Adobe Creative Cloud
 - description: TBA
   icon: chart-line

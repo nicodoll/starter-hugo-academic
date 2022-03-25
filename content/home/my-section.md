@@ -10,7 +10,7 @@ weight: 10  # section position on page
 
 design:
   columns: '1'
-  view: 5
+  view: 3
 ---
 
 {{< gallery album="storyboards" >}}

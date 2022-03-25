@@ -17,10 +17,10 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: Animate, Photoshop, Illustrator, Premiere Pro, Storyboard Pro, CLIP STUDIO PAINT
-  icon: cloud-upload
+  icon: mouse
   icon_pack: fas
   name: Software
-- description: Illustration, Storyboarding, Animating, Design 
+- description: Illustration, Storyboarding, Animating, Design, Compositing, Screenwriting 
   icon: paint-brush
   icon_pack: fas
   name: Technical

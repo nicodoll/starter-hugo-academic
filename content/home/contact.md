@@ -15,7 +15,7 @@ content:
   autolink: true
   address:
     city: Toronto
-    region: ON
+    region: Ontario
     country: Canada
     country_code: CA
   contact_links:

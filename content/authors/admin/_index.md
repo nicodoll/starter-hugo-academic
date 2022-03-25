@@ -3,7 +3,10 @@ title: Nicole (Nico) J. Dolloso
 role: Storyboard Artist / Animator
 avatar_filename: avatar.jpg
 bio: ""
-interests: []
+interests:
+  - Pre-vis
+  - Animation
+  - Mangoes
 social:
   - icon: envelope
     icon_pack: fas

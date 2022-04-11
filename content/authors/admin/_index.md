@@ -28,4 +28,4 @@ highlight_name: true
 ---
 I'm a Toronto-based artist and animator with 5+ years of combined experience. Working with others to bring their vision to life using visual storytelling and illustration is my core passion. When I'm not doing that I'm usually doing other hands-on projects like woodworking toys for my parrots, composing music or getting to know new CG software.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Nico_Dolloso_Resume_2022.pdf" "newtab" >}}resumé{{< /staticref >}}.
